@@ -1,14 +1,15 @@
 ---
 layout:     post
-title:      Vue+SSR-01
-subtitle:   环境准备和项目安装
+title:      Vue+Nuxt基础01
+subtitle:   环境配置和项目初始化
 date:       2020-03-13
 author:     __荒城旧梦
 header-img: img/post-bg-learn-ts.jpg
 catalog: true
 tags:
+    -Koa
+    -Nuxt
     -Vue
-	-SSR
 ---
 
 ## 项目初始化
